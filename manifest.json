@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "dev format converter",
+  "version": "1.1.0",
+  "description": "autodetect and convert anything to json, yaml, toml, xml, env, and query strings.",
+  "action": {},
+  "background": {
+    "service_worker": "background.js"
+  }
+}
